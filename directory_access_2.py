@@ -5,7 +5,7 @@ import glob
 
 
 # source file path for excel and google sheet.
-master_path = 'C:\\Users\\usenadu\\Documents\\dumidu-pearson\\google api\\2\\excel_files\\'
+master_path = 'C:\\Users\\Documents\\google api\\2\\excel_files\\'
 
 f = open ("master_file.csv", "r")                 # open source excel file and gogole sheet id list.
 f1 = f.readlines()
